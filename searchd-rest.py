@@ -7,7 +7,6 @@ import urllib2
 url = 'http://inet-sochi.ru:7003/'
 
 params = {
-    'dt' : 'back',
 # The category of the results, 09 - for australian sites
     'c' : '09',
 # number of results per page, i.e. how many results will be returned
